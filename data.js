@@ -637,13 +637,141 @@ shortQuestions: [
     ],
 
     // SHORT QUESTIONS - Question and answer pairs
-    shortQuestions: [
-      {
-        front: "[Your question here]",
-        back: "[Your answer here]",
-      },
-      // Add more short questions here
-    ],
+shortQuestions: [
+  {
+    front: "How do you feel when you are in a peaceful state of mind?",
+    back: "When we are in a peaceful state of mind, we feel relaxed and happy.",
+  },
+  {
+    front: "Which do you prefer - living with a large family or living on your own? Why?",
+    back: "I prefer living on my own because living alone gives me freelance and helps me make my own decisions and develop my confidence.",
+  },
+  {
+    front: "How do you feel after helping other people?",
+    back: "After helping other people, I feel that it is not only good for them, it also makes me feel happier.",
+  },
+  {
+    front: "Which do you think is better- having a wide circle of friends and family or having a lot money? Give your own reason(s).",
+    back: "I think having a wide circle of friends and family is better because when I am not in a good mood or feel depressed, I can hang out with my friends and family so that my stressful feelings will be released.",
+  },
+  {
+    front: "What will happen to you if you are envious of someone?",
+    back: "If I am envious of someone, I will experience negative emotions such as inferiority, dejection, and depression.",
+  },
+  {
+    front: "Explain how your mind and body are closely connected?",
+    back: "My mind and body are closely connected in that if I feel stressed out, I am likely to experience fatigue and muscle tension; similarly, if you feel happy and calm, you are likely to have more mental energy and more physical vitality.",
+  },
+  {
+    front: "How do you feel if you see a beautiful sunset while walking in a park?",
+    back: "I feel happy and calm if I see a beautiful sunset while walking in a park.",
+  },
+  {
+    front: "Do you agree with the statement 'Money is the best way to find happiness'? Why or why not?",
+    back: "I do not agree with the statement 'Money is the best way to find happiness' because I have met some rich people who are miserable and some poor people who are happy.",
+  },
+  {
+    front: "What can improve your mood and make you more cheerful?",
+    back: "Thinking back to pleasant incidents in the past can improve my mood and make me more cheerful.",
+  },
+  {
+    front: "What will happen to your body and mind when you practise meditation?",
+    back: "When I practise meditation, it will ease the tension in my body, clear my mind of negative thoughts and give me a sense of inner peace and well-being.",
+  },
+  {
+    front: "What do people do to reduce stress?",
+    back: "Practise meditation.",
+  },
+  {
+    front: "What does 'happiness' mean according to the Merriam-Webster Dictionary (2016)?",
+    back: "'Happiness' means 'a state of well-being and contentment'.",
+  },
+  {
+    front: "What do most people believe about money?",
+    back: "Most people believe that money is the best way to find happiness.",
+  },
+  {
+    front: "What is the biggest barrier to happiness?",
+    back: "Envy.",
+  },
+  {
+    front: "Why don’t we have a clear-cut answer on the question 'What’s happiness?'",
+    back: "Because the definition of happiness may change over time – today’s view on happiness may be a different one tomorrow.",
+  },
+  {
+    front: "When are we most likely to feel relaxed and happy?",
+    back: "When we are in a peaceful state of mind.",
+  },
+  {
+    front: "What is the definition of 'happiness' for a pensioner?",
+    back: "A better quality of life.",
+  },
+  {
+    front: "What should we do to release our stressful feelings when we feel depressed?",
+    back: "We should hang out with friends or spend time with our family.",
+  },
+  {
+    front: "What are important factors for your happiness?",
+    back: "Job satisfaction and career success.",
+  },
+  {
+    front: "When do you tend to achieve happiness?",
+    back: "When we can accomplish the tasks we have undertaken.",
+  },
+  {
+    front: "What is identified as another key element of happiness?",
+    back: "Treating everyone with kindness.",
+  },
+  {
+    front: "According to studies by psychologists in different countries, what is the benefit of helping other people?",
+    back: "The benefit of helping other people on one’s own happiness is that when we help others, it not only good for them, it also makes us feel happier.",
+  },
+  {
+    front: "Who are more likely to experience negative emotions?",
+    back: "People who are envious of others.",
+  },
+  {
+    front: "What can we have when we fit physically and mentally?",
+    back: "We can have true happiness.",
+  },
+  {
+    front: "When are you likely to experience fatigue?",
+    back: "When we feel stressed out.",
+  },
+  {
+    front: "Why is contentment the key to happiness?",
+    back: "Because people who accept what they have are happier than people who crave for more career success and money.",
+  },
+  {
+    front: "Why do rich people consider that they are happy?",
+    back: "Because they can buy expensive houses, new cars, big yachts and designer clothes.",
+  },
+  {
+    front: "How are many people trying to get rich?",
+    back: "Many people are trying to get rich in every possible way in the hope of achieving happiness in life.",
+  },
+  {
+    front: "What is often said about life?",
+    back: "It is often said that life is composed of positive elements and negative elements.",
+  },
+  {
+    front: "Why might you be in a bad mood or feel downhearted from time to time?",
+    back: "Because we are looking inside us, thinking about bad things.",
+  },
+  {
+    front: "How might you feel when facing difficulties in school or work?",
+    back: "When you encounter difficulties in your school or work, you may feel disappointed and downhearted.",
+  },
+  {
+    front: "What can sweet memories do to your mood?",
+    back: "Sweet memories can put us in a better mood by making us smile, laugh, or feel joyful.",
+  },
+  {
+    front: "What are the benefits of meditation?",
+    back: "Meditation can ease the tension in our body, clear our mind of negative thoughts, and give us a sense of inner peace and well-being.",
+  }
+],
+
 
     // INITIAL LETTERS - Fill in the first letter(s)
     initialLetters: [
@@ -737,6 +865,7 @@ TIPS:
 - You can have multiple acceptable answers for fill-in-the-blank questions
 - Test your changes by refreshing the website
 */
+
 
 
 
