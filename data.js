@@ -7,7 +7,7 @@ const unitsData = {
   // UNIT 1: EXAMPLE UNIT - LITERATURE BASICS
   // ==========================================
   unit1: {
-    title: "Unit 1: Literature Basics",
+    title: "Unit 1: GOOD MANNERS",
     description: "Introduction to literary terms and concepts",
 
     // VOCABULARY FLASHCARDS - Terms and definitions
@@ -308,7 +308,7 @@ const unitsData = {
   // UNIT 2: EXAMPLE UNIT - POETRY ANALYSIS
   // ==========================================
   unit2: {
-    title: "Unit 2: Poetry Analysis",
+    title: "Unit 2: KEY TO HAPPINESS",
     description: "Understanding poetic devices and analysis techniques",
 
     // VOCABULARY FLASHCARDS
@@ -423,7 +423,7 @@ const unitsData = {
   // UNIT 3: TEMPLATE FOR NEW UNIT
   // ==========================================
   unit3: {
-    title: "Unit 3: [Your Unit Title Here]",
+    title: "Unit 3: DIET AND NUTRITION",
     description: "[Your unit description here]",
 
     // VOCABULARY FLASHCARDS - Terms and definitions
@@ -536,3 +536,4 @@ TIPS:
 - You can have multiple acceptable answers for fill-in-the-blank questions
 - Test your changes by refreshing the website
 */
+
