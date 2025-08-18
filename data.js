@@ -846,7 +846,200 @@ shortQuestions: [
       // Add more grammar cards here
     ],
   },
+unit4: {
+    title: "Unit 3: THE LIBRARY",
+    description: "THE LIBRARY",
 
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+shortQuestions: [
+  {
+    front: "What are the two main types of emotions?",
+    back: "The two main types of emotions are positive emotion and negative emotion.",
+  },
+  {
+    front: "“In daily life, we are more likely to experience negative emotions than positive ones.” Do you agree with this statement? Why or why not?",
+    back: "Yes, I agree with this statement because when we experience stressful situations, it is easier for us to get disappointed, worried, or distressed, especially if we are emotionally unhealthy.",
+  },
+  {
+    front: "What do you usually do when something bad or unkind happens to us? / When do we blame others or criticise them?",
+    back: "We usually blame others or criticise them when something bad or unkind happens to us.",
+  },
+  {
+    front: "How do we feel when we cannot fulfil our wants or needs? / When do we get disappointed, worried, or distressed?",
+    back: "We feel depressed, distressed or frustrated when we cannot fulfil our wants or needs.",
+  },
+  {
+    front: "Why is emotional well-being so important in seeking happiness and life satisfaction?",
+    back: "Emotional well-being is so important in seeking happiness and life satisfaction because emotionally healthy people can cope with life’s challenges and they can even manage to bounce back after having been defeated.",
+  },
+  {
+    front: "What is essential for us to enjoy a better quality of life? / What do we need to possess to enjoy a better quality of life?",
+    back: "A good sense of emotional well-being is essential for us to enjoy a better quality of life.",
+  },
+  {
+    front: "How do you usually manage your emotions?",
+    back: "I usually manage my emotions by staying peaceful, positive, intentional, and hopeful.",
+  },
+  {
+    front: "Suggest two other ways of achieving emotional well-being.",
+    back: "Two other ways of achieving emotional well-being are having better physical and mental health and practising meditation.",
+  },
+  {
+    front: "What does emotion mean?",
+    back: "Emotion means a strong human feeling such as love, hatred, anger or fear.",
+  },
+  {
+    front: "How are family members and friends mystically connected?",
+    back: "Family members and friends are mystically connected by a feeling of friendship, kindness or love.",
+  },
+  {
+    front: "What kind of impact do emotions have on our lives?",
+    back: "Emotions have a considerable impact on our lives.",
+  },
+  {
+    front: "What are some examples of positive emotions?",
+    back: "Delight, joy, sympathy, empathy, rapture, trust, and love.",
+  },
+  {
+    front: "What are some examples of negative emotions?",
+    back: "Anger, fear, anxiety, jealousy, grief, greed and hatred.",
+  },
+  {
+    front: "Why do you need to know the basic emotions you experience in daily life?",
+    back: "In order to have a proper understanding of our emotions.",
+  },
+  {
+    front: "What will happen if our negative emotions become chronic or overwhelming?",
+    back: "We will be faced with problems, like losing our loved ones.",
+  },
+  {
+    front: "What does the word “joy” mean?",
+    back: "A feeling of great happiness that can be induced by the simplest things, like a kind word, a beautiful mountain view or an interesting shop window.",
+  },
+  {
+    front: "Which emotion is said to be the most positive emotion and a great motivator?",
+    back: "Joy.",
+  },
+  {
+    front: "What is empathy according to the text?",
+    back: "The feeling that we understand and share someone else’s emotions or experiences as if they were our own.",
+  },
+  {
+    front: "How does showing empathy help us manage our emotions?",
+    back: "By training our minds to prepare themselves for challenges.",
+  },
+  {
+    front: "What is loving-kindness defined?",
+    back: "A strong feeling of caring about someone.",
+  },
+  {
+    front: "What is surprise?",
+    back: "A feeling that is caused by something unexpected.",
+  },
+  {
+    front: "What is anxiety?",
+    back: "A normal human emotion that is found as a reaction to stress.",
+  },
+  {
+    front: "How many kinds of anxiety are there? What are they?",
+    back: "2 kinds: worry & fear.",
+  },
+  {
+    front: "What is normal anxiety? / When do you feel normal anxiety?",
+    back: "It is what we feel when we are exposed to external stresses such as losing a job, having difficulties in marriage or our children getting ill.",
+  },
+  {
+    front: "What is fear?",
+    back: "When anxiety occurs in response to a more immediate threat, like being attacked by a huge snarling dog or looking over a cliff edge.",
+  },
+  {
+    front: "What is anger?",
+    back: "A strong feeling that makes us want to hurt or criticise someone because of something bad or unfair that has happened.",
+  },
+  {
+    front: "What is distress?",
+    back: "A feeling of sadness which is prompted by the loss of something or tragic events.",
+  },
+  {
+    front: "What is disgust?",
+    back: "A strong feeling of dislike, annoyance or disapproval.",
+  },
+  {
+    front: "Why do people move away from disgusting things?",
+    back: "Because they may carry diseases.",
+  },
+  {
+    front: "How does disgust help protect us?",
+    back: "From harm or illness by guiding us to avoid things that may be dangerous or unhygienic.",
+  },
+  {
+    front: "What is the word 'emotional well-being' defined?",
+    back: "The ability to recognise our emotions, manage them and produce positive feelings or thoughts.",
+  },
+  {
+    front: "Mention three practical ways to achieve emotional well-being.",
+    back: "Stay honest, peaceful, grateful, intentional, balanced, positive, connected, determined, strong, and hopeful.",
+  },
+  {
+    front: "Write the benefits of emotional well-being. / What feelings does emotional well-being bring?",
+    back: "Emotional well-being typically brings pleasant feelings such as excitement, happiness and love.",
+  },
+  {
+    front: "How can you try to be a peacemaker?",
+    back: "By developing fairness and conflict resolution skills.",
+  },
+  {
+    front: "Why should a person find ways to improve their work-life balance?",
+    back: "To keep the right balance of both pleasant and unpleasant feelings.",
+  },
+  {
+    front: "What should you do to stay positive?",
+    back: "Keep a healthy, positive attitude to life. Smile, laugh and enjoy our lives.",
+  },
+  {
+    front: "What can Dr Hal Baumchen’s ten practical ways help you?",
+    back: "To achieve emotional well-being and stay resilient to emotionally stressful situations.",
+  }
+],
+
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
   // ==========================================
   // ADD MORE UNITS HERE
   // ==========================================
@@ -910,6 +1103,7 @@ TIPS:
 - You can have multiple acceptable answers for fill-in-the-blank questions
 - Test your changes by refreshing the website
 */
+
 
 
 
