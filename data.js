@@ -95,20 +95,100 @@ const unitsData = {
     ],
 
     // SHORT QUESTIONS - Question and answer pairs
-    shortQuestions: [
-      {
-        front: "What is the difference between a metaphor and a simile?",
-        back: "A metaphor makes a direct comparison without using 'like' or 'as', while a simile uses 'like' or 'as' to make the comparison.",
-      },
-      {
-        front: "How do you identify the theme of a literary work?",
-        back: "Look for recurring ideas, the main conflict resolution, character development, and what the author seems to be saying about life or human nature.",
-      },
-      {
-        front: "Why do authors use personification?",
-        back: "To make abstract concepts more relatable, create vivid imagery, and help readers connect emotionally with non-human elements.",
-      },
-    ],
+  shortQuestions: [
+  {
+    front: "What is the difference between 'manner' and 'manners'?",
+    back: "The difference between 'manner' and 'manners' is that 'manner' refers to the way of doing something, while 'manners' refers to the way a person behaves in society.",
+  },
+  {
+    front: "If we accidentally hurt someone, what should we say?",
+    back: "If we accidentally hurt someone, we should say 'I'm sorry'.",
+  },
+  {
+    front: "Where do children's manners originate?",
+    back: "Children's manners originate at home.",
+  },
+  {
+    front: "How can children learn manners from their elders?",
+    back: "Children can learn manners from their elders by imitating them.",
+  },
+  {
+    front: "Apart from home, where do children acquire manners?",
+    back: "Apart from home, children acquire manners from their school.",
+  },
+  {
+    front: "Why can we say that the work domain is an institution that imparts manners?",
+    back: "We can say that the work domain is an institution that imparts manners because once a person gets a job, his work domain becomes an added institution to influence him, for good or evil.",
+  },
+  {
+    front: "Who often influences children and teenagers today?",
+    back: "Children and teenagers today are often influenced by celebrities.",
+  },
+  {
+    front: "Who are the most responsible persons for imparting good manners to children?",
+    back: "The most responsible persons for imparting good manners to children are all the elders of the present generation.",
+  },
+  {
+    front: "Do you think good manners are the key to success in life? Why or why not?",
+    back: "Yes, I think good manners are the key to success in life because they are vital for a pleasant atmosphere and for getting on well in life.",
+  },
+  {
+    front: "To build a well-mannered society, what should the elders of the present generation do?",
+    back: "To build a well-mannered society, the elders of the present generation should conscientiously join hands and teach juniors to be law-abiding, upright, honest, disciplined, charitable, helpful, merciful, and forgiving.",
+  },
+  {
+    front: "How should the youths behave at mealtimes?",
+    back: "The youths should behave at mealtimes by eating after the elders have started.",
+  },
+  {
+    front: "What does it mean that some manners are 'universal'?",
+    back: "When we say that some manners are 'universal', it means they are true or suitable in every situation and acceptable in every culture.",
+  },
+  {
+    front: "What should a junior do while being spoken to by a parent or teacher?",
+    back: "While being spoken to by a parent or teacher, a junior should listen with arms folded.",
+  },
+  {
+    front: "What do we need to get well in life?",
+    back: "We need good manners to get well in life.",
+  },
+  {
+    front: "How can we show respect to others?",
+    back: "We can show respect to others by acting politely and speaking appropriately according to their position.",
+  },
+  {
+    front: "Why may 'Home' be considered the 'birthplace' of manners?",
+    back: "'Home' may be considered the 'birthplace' of manners because children hear what the elders say and see what they do.",
+  },
+  {
+    front: "When will children grow up to be crude and rude?",
+    back: "Children will grow up to be crude and rude when the elders around them are crude and rude.",
+  },
+  {
+    front: "What else can children do at school besides learning school subjects?",
+    back: "Besides learning school subjects, children can imitate the teachers’ manners and behaviour at school.",
+  },
+  {
+    front: "From whom can students acquire ill manners?",
+    back: "Students can acquire ill manners from their classmates and senior students.",
+  },
+  {
+    front: "Why are teachers good role models for children at school?",
+    back: "Teachers are good role models for children at school because students imitate the teachers’ manners and behaviour.",
+  },
+  {
+    front: "How do celebrities influence the youths?",
+    back: "Celebrities influence the youths by misleading them.",
+  },
+  {
+    front: "Who are responsible for imparting good manners to students in a school?",
+    back: "Teachers are responsible for imparting good manners to students in a school.",
+  },
+  {
+    front: "What does the quality of the next generation depend on?",
+    back: "The quality of the next generation depends on the hands of the present generation.",
+  }
+],
 
     // INITIAL LETTERS - Fill in the first letter(s)
     // INITIAL LETTERS - Fill in the exact word
@@ -536,4 +616,5 @@ TIPS:
 - You can have multiple acceptable answers for fill-in-the-blank questions
 - Test your changes by refreshing the website
 */
+
 
