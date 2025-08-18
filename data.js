@@ -1040,6 +1040,448 @@ shortQuestions: [
       // Add more grammar cards here
     ],
   },
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit5: {
+    title: "Unit 5: COLOURS",
+    description: "COLOURS",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit6: {
+    title: "Unit 6: ARTIFICIAL INTELLIGENCE",
+    description: "ARTIFICIAL INTELLIGENCE",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit7: {
+    title: "Unit 7: POLLUTION: A HAZARD TO OUR ENVIRONMENT",
+    description: "[Your unit description here]",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit8: {
+    title: "Unit 8: RENEWABLE ENERGY",
+    description: "RENEWABLE ENERGY",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit9: {
+    title: "Unit 9: HELEN KILLER",
+    description: "HELEN KILLER",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit10: {
+    title: "Unit 10: WHY IMPORTANT COMMUNICATION SKILLS?",
+    description: "WHY IMPORTANT COMMUNICATION SKILLS",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit11: {
+    title: "Unit 11: A DAY'S WAIT",
+    description: "A DAY'S WAIT",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+  // ==========================================
+  // UNIT 3: TEMPLATE FOR NEW UNIT
+  // ==========================================
+  unit12: {
+    title: "Unit 12: INTERCELTURAL COMMUNICATION",
+    description: "INTERCELTURAL COMMUNICATION",
+
+    // VOCABULARY FLASHCARDS - Terms and definitions
+    vocabulary: [
+      {
+        front: "[Term]",
+        back: "[Definition and example]",
+      },
+      // Add more vocabulary cards here
+    ],
+
+    // SHORT QUESTIONS - Question and answer pairs
+    shortQuestions: [
+      {
+        front: "[Your question here]",
+        back: "[Your answer here]",
+      },
+      // Add more short questions here
+    ],
+
+    // INITIAL LETTERS - Fill in the first letter(s)
+    initialLetters: [
+      {
+        question: "[Description]: [First letter(s)]_____",
+        correct: ["letter1", "letters2", "word"], // Array of acceptable answers
+      },
+      // Add more initial letter questions here
+    ],
+
+    // MULTIPLE CHOICE QUESTIONS
+    multipleChoice: [
+      {
+        question: "[Your question here]",
+        options: ["[Option 1]", "[Option 2]", "[Option 3]", "[Option 4]"],
+        correct: 0, // Index of correct answer (0-3)
+      },
+      // Add more multiple choice questions here
+    ],
+
+    // GRAMMAR - Grammar rules and explanations
+    grammar: [
+      {
+        front: "[Grammar Rule/Topic]",
+        back: "[Explanation and examples]",
+      },
+      // Add more grammar cards here
+    ],
+  },
+
+
+
+
+
+
+
   // ==========================================
   // ADD MORE UNITS HERE
   // ==========================================
@@ -1103,6 +1545,7 @@ TIPS:
 - You can have multiple acceptable answers for fill-in-the-blank questions
 - Test your changes by refreshing the website
 */
+
 
 
 
